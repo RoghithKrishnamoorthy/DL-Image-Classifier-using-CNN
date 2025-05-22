@@ -38,9 +38,10 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:ROGHITH K
 
-### Register Number:
+### Register Number:212222040135
+
 
 ```python
 class CNNClassifier(nn.Module):
